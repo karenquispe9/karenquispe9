@@ -6,19 +6,19 @@
 
 ¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi primer año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
 
-## Habilidades en Curso
+##:mechanical_arm: Habilidades en Curso
 
 - **Lenguajes de Programación**: Estoy aprendiendo y practicando con lenguajes como Java.
 - **Desarrollo Web**: Estoy explorando el desarrollo web con HTML, CSS.
 - **Bases de Datos**: Estoy aprendiendo sobre bases de datos relacionales y no relacionales como MySQL.
 - **Control de Versiones**: Estoy familiarizándome con Git y GitHub para gestionar mis proyectos y colaborar con otros estudiantes.
 
-## Proyectos Seguimiento Clases
+## :file_folder:Proyectos Seguimiento Clases
 
 - [M03](enlace_al_proyecto_1): Breve descripción del proyecto y tecnologías utilizadas.
 - [M04](enlace_al_proyecto_2): Breve descripción del proyecto y tecnologías utilizadas.
 
-## Objetivos
+## :rocket:	Objetivos
 
 Mis objetivos como estudiante de primer año de programación son:
 
@@ -27,7 +27,7 @@ Mis objetivos como estudiante de primer año de programación son:
 - Contribuir a proyectos de código abierto.
 - Crear proyectos personales para aplicar lo que he aprendido en clase.
 
-## Contacto
+## :bell:Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
