@@ -2,7 +2,8 @@
 
 ¡Bienvenido/a a mi perfil de estudiante de programación! :robot:	
 
-![https://github.com/karenquispe9](https://www.canva.com/design/DAF9gNKY8uc/oVZyOYipYsGJhFnk5gePrg/viewutm_content=DAF9gNKY8uc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![BannergitKaren](https://github.com/karenquispe9/karenquispe9/assets/152276117/38d7cb0e-5f42-46b6-b3c9-da529fda4592)
+
 ## :call_me_hand:	Sobre mí
 
 ¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi primer año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
