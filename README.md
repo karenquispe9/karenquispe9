@@ -6,7 +6,7 @@
 
 ¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi primer año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
 
-##:mechanical_arm: Habilidades en Curso
+## :mechanical_arm: Habilidades en Curso
 
 - **Lenguajes de Programación**: Estoy aprendiendo y practicando con lenguajes como Java.
 - **Desarrollo Web**: Estoy explorando el desarrollo web con HTML, CSS.
