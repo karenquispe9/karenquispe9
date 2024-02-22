@@ -37,5 +37,8 @@ Mis objetivos como estudiante de primer año de programación son:
 - [GitHub](https://github.com/karenquispe9)
 - Correo Electrónico: karenquispego97@gmail.com
 
-<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
-¡Gracias por visitar mi perfil! Espero poder aprender y crecer junto a la comunidad de programadores.
+¡Gracias por visitar mi perfil! Espero poder aprender y crecer junto a la comunidad de programadores!
+
+<img src="giphy.gif">
+
+
