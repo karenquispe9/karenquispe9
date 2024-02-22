@@ -17,8 +17,8 @@
 
 ## :file_folder:Proyectos Seguimiento Clases
 
-- [M03](enlace_al_proyecto_1): Breve descripción del proyecto y tecnologías utilizadas.
-- [M04](enlace_al_proyecto_2): Breve descripción del proyecto y tecnologías utilizadas.
+- [M03]([enlace_al_proyecto_1](https://github.com/karenquispe9/M03_UF2)) 
+- [M02]([enlace_al_proyecto_2](https://github.com/karenquispe9/BBDD-M02-UF2))
 
 ## :rocket:	Objetivos
 
