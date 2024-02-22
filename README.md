@@ -1,8 +1,8 @@
-# Hola, Soy Karen
+# Hola, Soy Karen :nerd_face:	
 
-¡Bienvenido/a a mi perfil de estudiante de programación!
+¡Bienvenido/a a mi perfil de estudiante de programación! :robot:	
 
-## Sobre mí
+## :call_me_hand:	Sobre mí
 
 ¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi primer año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
 
