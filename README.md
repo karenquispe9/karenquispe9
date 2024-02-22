@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi perfil de estudiante de programación! :robot:	
 
-![BannergitKaren](https://github.com/karenquispe9/karenquispe9/assets/152276117/38d7cb0e-5f42-46b6-b3c9-da529fda4592)
+![BannergitKaren2](https://github.com/karenquispe9/karenquispe9/assets/152276117/249ed5cf-ca15-4383-b6df-4b58e80d9fd7)
 
 ## :call_me_hand:	Sobre mí
 
