@@ -33,8 +33,7 @@ Mis objetivos como estudiante de primer año de programación son:
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/karen-quispe-gonzales-ab56942b3/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/karen-quispe-gonzales-ab56942b3/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/karen-quispe-gonzales-ab56942b3/))
 - [GitHub](https://github.com/karenquispe9)
 - Correo Electrónico: karenquispego97@gmail.com
 
