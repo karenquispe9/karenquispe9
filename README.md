@@ -6,7 +6,7 @@
 
 ## :call_me_hand:	Sobre mí
 
-¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi primer año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
+¡Hola! Soy una estudiante apasionada por la programación y la tecnología. Actualmente estoy cursando mi segundo año de DAM (Desarrollo de aplicaciones Multiplataforma) y estoy emocionada de aprender todo lo posible sobre el mundo de la informática.
 
 ## :mechanical_arm: Habilidades en Curso
 
@@ -22,7 +22,7 @@
 
 ## :rocket:	Objetivos
 
-Mis objetivos como estudiante de primer año de programación son:
+Mis objetivos como estudiante de programación son:
 
 - Dominar los fundamentos de la programación.
 - Desarrollar habilidades sólidas en la resolución de problemas.
