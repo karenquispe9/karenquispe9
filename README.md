@@ -15,11 +15,6 @@
 - **Bases de Datos**: Estoy aprendiendo sobre bases de datos relacionales y no relacionales como MySQL.
 - **Control de Versiones**: Estoy familiarizándome con Git y GitHub para gestionar mis proyectos y colaborar con otros estudiantes.
 
-## :file_folder:Proyectos Seguimiento Clases
-
-- [M03]([enlace_al_proyecto_1](https://github.com/karenquispe9/M03_UF2)) 
-- [M02]([enlace_al_proyecto_2](https://github.com/karenquispe9/BBDD-M02-UF2))
-
 ## :rocket:	Objetivos
 
 Mis objetivos como estudiante de programación son:
